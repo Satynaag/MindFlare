@@ -24,8 +24,8 @@ This project provides a REST API to manage users. You can add, retrieve, and del
     [
       {
         "id": "1",
-        "name": "John Doe",
-        "email": "john.doe@example.com"
+        "name": "Gajteoe",
+        "email": "Gaja.doe@example.com"
       }
     ]
     ```
