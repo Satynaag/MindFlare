@@ -35,8 +35,8 @@ This project provides a REST API to manage users. You can add, retrieve, and del
 - **Request Body:**
     ```json
     {
-      "name": "Jane Smith",
-      "email": "jane.smith@example.com"
+      "name": "Akratiya",
+      "email": "Akratiya.smith@example.com"
     }
     ```
 
@@ -44,8 +44,8 @@ This project provides a REST API to manage users. You can add, retrieve, and del
     ```json
     {
       "id": "2",
-      "name": "Jane Smith",
-      "email": "jane.smith@example.com"
+      "name": "SteveSmith",
+      "email": "steve.smith@example.com"
     }
     ```
 
